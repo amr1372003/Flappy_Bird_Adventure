@@ -128,7 +128,7 @@ void game_play(RenderWindow& window) {
 	player.setTextureRect(IntRect(0, 0, 24, 24));
 
 	Texture teleportTex;
-	teleportTex.loadFromFile("Thunder projectile1 w blur.png");
+	teleportTex.loadFromFile("Thunder_projectile1_w_blur.png");
 	Sprite teleport;
 	teleport.setTexture(teleportTex);
 	teleport.setScale(Vector2f(3.f, 3.f));
