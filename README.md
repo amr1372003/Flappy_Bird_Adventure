@@ -1,1 +1,1 @@
-##To run the game you need to install SFML.
+## To run the game you need to install SFML.
